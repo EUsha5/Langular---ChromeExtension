@@ -1,0 +1,19 @@
+.file-sidebar,
+.open {
+  display: none;
+}
+
+.preview-content,
+.preview-video {
+  justify-content: center;
+}
+
+.flex-preview-container .video-player,
+.preview-content-container .video-player {
+  height: 400px !important;
+}
+
+.preview-content_wrapper {
+  height: 400px;
+  width: 600px;
+}
